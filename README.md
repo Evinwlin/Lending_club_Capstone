@@ -1,3 +1,2 @@
-# Lending_club_Capstone
-Capstone project - work in progress  
-Purpose: to investigate the lending club loan pricing model. 
+# Credit Risk Modeling 
+Capstone project - Apply classification techniques to predict default on LendingClub data. 
